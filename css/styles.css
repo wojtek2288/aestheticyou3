@@ -1,0 +1,394 @@
+html{
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F5F5F5;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+h3{
+  color: #deae36;
+  padding: 0 3rem 0 3rem;
+}
+
+h5{
+  color: #deae36;
+}
+
+p{
+  padding: 0 3rem 0 3rem;
+}
+#just{
+  text-align: justify;
+  text-justify: inter-word;
+}
+.navbar{
+  background-color: black;
+  padding-left: 7rem;
+  padding-right: 5rem;
+}
+
+.logosmimg{
+  width: 5rem;
+  height: auto;
+}
+
+.navbar-nav{
+  padding: 0 4rem;
+  font-size: 1.7rem;
+}
+
+.nav-item{
+  margin: 0 1.5rem;
+  font-size: 1.2rem;
+  font-size: 1.5rem;
+}
+
+.navbar-brand{
+  color: #deae36 !important;
+}
+
+.navbar-left{
+  padding-top: 0;
+  margin: 0;
+}
+#home{
+  background-color: #F5F5F5;
+  color: black;
+  font-size: 1.2rem;
+}
+.tlo{
+  background-color: white;
+}
+.tloobr{
+  width: 100%;
+  height: auto;
+}
+.tlosm{
+  display: none;
+  width: 100%;
+  height: auto;
+  background-color: white;
+}
+
+#testimonial-carousel{
+  background-color: black;
+  padding: 5rem 2rem 3.5rem 2rem;
+  border-style: solid;
+  border-color: #deae36;
+  border-width: 1rem;
+  margin-top: 0rem;
+}
+
+.testimonial-image{
+  width: 30rem;
+  /* border-style: solid;
+  border-color: #e58a8a;
+  border-width: 1.5rem; */
+}
+
+.galeria-tekst{
+  margin-top: 2rem;
+}
+
+.Cennik{
+  margin: 3rem 7rem 3rem 7rem;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #f5de92;
+}
+
+.tbody{
+  font-family: 'Montserrat', sans-serif;
+}
+.tab:hover{
+  background-color: #F5F5F5 !important;
+}
+
+.telefon{
+  color: #deae36 !important;
+}
+.ha{
+  padding: 0;
+}
+
+.cn{
+  color: #deae36;
+}
+
+.row{
+  padding: 0 4rem;
+}
+
+.kol{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.kol-1{
+  text-align: left;
+  text-justify: inter-word;
+  padding-top: 3rem;
+}
+
+.zdjecie-home{
+  width: 18.5rem;
+  border-radius: 50%;
+}
+.zdjecie-oferta{
+  width: 22rem;
+  margin-top: 1.3rem;
+  border-style: solid;
+  border-width: 1rem;
+  border-color: black;
+}
+
+.zamiana-tekst{
+  display: none;
+}
+
+.zamiana-zdj{
+  display: none;
+}
+
+.ikony{
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.trzy{
+  margin-bottom: 10rem;
+}
+
+.tloobr{
+ width: 100%;
+ height: auto;
+}
+
+.pasek{
+  background-color: black;
+  margin-bottom: 10rem;
+}
+
+.info{
+  background-color: black;
+  padding:3rem;
+  padding-top: 32px;
+}
+
+.logo-down{
+  font-size: 2rem;
+  margin: 2rem;
+  color: #deae36;
+}
+
+.galeria-tlo{
+  background-color: black;
+}
+
+.tekstwcar{
+  color : rgb(207, 206, 196);
+}
+
+.kontaktfr{
+  padding: 2rem;
+  border-color: #deae36;
+}
+.mapa{
+  border-color: #deae36;
+}
+
+#testimonial-carousel{
+  background-color: #F5F5F5;
+}
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23deae36' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23deae36' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+.kontaktwel{
+  padding: 3rem 5rem 3rem 5rem;
+}
+.btn{
+background-color: #deae36;
+border-color: #deae36;
+}
+.btn:hover{
+  background-color: black;
+}
+
+#myrow{
+  background-color: #ededed;
+  border-style: solid;
+  border-width: 0.8rem;
+  border-bottom-width: 0.4rem;
+  border-color: #deae36;
+}
+#myrow2{
+  background-color: #ededed;
+  border-style: solid;
+  border-width: 0.4rem;
+  border-color: #deae36;
+}
+#myrow3{
+  background-color: #ededed;
+  border-style: solid;
+  border-width: 0.4rem;
+  border-bottom-width: 0.8rem;
+  border-color: #deae36;
+}
+.zamianarow{
+  display: none;
+}
+@media screen and (max-width: 991px) {
+  .zdjecie-oferta{
+    margin-top: 0.8rem;
+    width: 30rem;
+  }
+  .bezzam{
+    display: none;
+  }
+  .zamianarow{
+    display: block;
+  }
+  .tloobr{
+    display: none;
+  }
+  .tlosm{
+    display: block;
+  }
+  @media screen and (min-width: 625px) {
+  .tlosm{
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+  }
+  }
+}
+@media screen and (max-width: 991px) {
+  .kontaktwel{
+    padding: 1rem 1rem 1rem 2rem;
+  }
+    .navbar{
+      padding-left: 4rem;
+    }
+    .zdjecie-home{
+      width: 20rem;
+    }
+    .xd{
+      display: none;
+    }
+
+    .smalllogo{
+      display: block;
+    }
+
+    .tloobr{
+      width: 0.5rem;
+      height: auto;
+    }
+
+    .xd2{
+      display: none;
+    }
+
+    .zamiana-tekst{
+      display: block;
+      margin-bottom: 0.1rem;
+    }
+
+    .zamiana-zdj{
+      display: block;
+      margin: auto;
+    }
+
+    .kol-tablet{
+      padding-top: 0;
+      margin-bottom: 2rem;
+    }
+
+    .kol-1{
+      text-align: center;
+    }
+
+   @media screen and (max-device-width: 450px){
+     .Cennik{
+       margin: 3rem 0.5rem 3rem 0.5rem;
+     }
+    h3{
+      font-size: 3rem;
+    }
+
+    p{
+      font-size: 2rem;
+    }
+
+    h5{
+      font-size: 2rem;
+    }
+
+    .trzy{
+      margin-bottom: 16px;
+    }
+
+    .pasek{
+      margin-bottom: 32px;
+      padding: 2rem;
+    }
+
+    .navbar{
+      padding: 5rem;
+      padding-left: 10rem;
+      padding-right: 8rem;
+    }
+    .smalllogo{
+      display: block;
+    }
+
+    .biglogo{
+      display: none !important;
+    }
+
+    .navbar-toggler .navbar-toggler-icon{
+      font-size: 3rem;
+    }
+
+    .logo-down{
+      font-size: 3rem;
+    }
+
+    .nav-item{
+      font-size: 3rem;
+    }
+
+    .table{
+      font-size: 3rem;
+    }
+
+    .Cennik{
+      margin-bottom: 10rem;
+      margin-top: 10rem;
+    }
+
+    #testimonials{
+      margin-bottom: 150px;
+    }
+  }
+}
+
+@media screen and (min-device-width: 992px) and (max-device-width: 1076px) {
+  .nav-item{
+    margin: 0;
+  }
+}
